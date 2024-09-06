@@ -10,5 +10,5 @@
   <li>Updating contact</li>
   <li>Delete contact</li>
  <li>Contact information</li>
- <p>Ensure proper error handling and data validation.</p>
+ <li>Ensure proper error handling and data validation.</li>
 </ul>
