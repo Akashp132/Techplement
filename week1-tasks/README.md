@@ -1,5 +1,5 @@
 <h1>Internship</h1>
-<p> <strong>Task:</strong>BuildaContact Management System.</p>
+<p> <strong>Task:</strong> Build a Contact Management System.</p>
 <h2>Description:</h2>
 <p>Develop a command-line contact management system using Python.</p>
 <ul>
