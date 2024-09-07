@@ -6,7 +6,7 @@
 <p>Implement functionalities such as </p>
   <li>Show full contacts</li>
   <li>Adding contacts</li> 
-  <li>Searching for contacts by name</li>
+  <li>Searching for contacts by substring of names </li>
   <li>Updating contact</li>
   <li>Delete contact</li>
  <li>Contact information</li>
